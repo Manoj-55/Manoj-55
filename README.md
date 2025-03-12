@@ -1,9 +1,15 @@
 <h1 align="center">Hi 👋, I'm Manoj</h1>
 <h3 align="center">A passionate Data Analyst and ML Engineer from India.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=manoj-55&label=Profile%20views&color=0e75b6&style=flat" alt="manoj-55" /> </p>
+<div style="padding: 5px; display: inline-block;">
+    <img 
+        align="right" 
+        alt="Coding" 
+        width="500" 
+        style="margin: 5px;" 
+        src="https://i.pinimg.com/originals/db/ab/2f/dbab2f3be06e768e77a85f175e577955.gif">
+</div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manoj-55" alt="manoj-55" /></a> </p>
 
 - 🔭 I’m currently working on **Machine Learning-Based Optimization of WEDM for Additively Manufactured SS316L Marine-Grade Steel**
 
