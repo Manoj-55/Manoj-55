@@ -7,7 +7,7 @@
         alt="Coding" 
         width="500" 
         style="margin: 5px;" 
-        src="https://i.pinimg.com/originals/db/ab/2f/dbab2f3be06e768e77a85f175e577955.gif">
+        src="https://raw.githubusercontent.com/hasibul-hasan-shuvo/hasibul-hasan-shuvo/main/images/coding-boy.gif">
 </div>
 
 
