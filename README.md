@@ -5,7 +5,7 @@
     <img 
         align="right" 
         alt="Coding" 
-        width="300" 
+        width="350" 
         style="margin: 5px;" 
         src="https://raw.githubusercontent.com/hasibul-hasan-shuvo/hasibul-hasan-shuvo/main/images/coding-boy.gif">
 </div>
